@@ -46,5 +46,23 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
+## 프로젝트 진행
+
+### 설계 (2024.05.15 - 2024.06.07)
+
+- [기능 명세](https://charmbang.notion.site/afc5725e62c642518f2f96379a39d9a7?v=d822de9831e14776b2853c81838bab44&pvs=4)
+- 프로젝트 아키텍처 구상
+- [화면 스케치](https://github.com/CharmRoom/.github/blob/main/profile/sketching.pdf)<br>
+  더 자세한 사항은 [프론트엔드 레포지토리](https://github.com/CharmRoom/CharmRoom-Front) readme 참고
+- [API 명세](https://charmbang.notion.site/API-fbe9b72c4f334093b2cb20d34d66b0e2?pvs=4)
+- [ERD 작성](https://github.com/CharmRoom/.github/blob/main/profile/ERD.png)
+
+### 백엔드 (2024.06.07 - 2024.09.03)
+- [백엔드 레포지토리](https://github.com/CharmRoom/CharmRoom-Back) 참고
+
+### 프론트엔드 (2024.08.15 - 2024.09.04, 일시 중단)
+- [프론트엔드 레포지토리](https://github.com/CharmRoom/CharmRoom-Front) 참고
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:BE93C5,50:86A8E7,100:91EAE4&fontAlign=50&fontAlignY=40&animation=fadeIn&rotate=0&textBg=false&fontColor=203A43&reversal=false&desc=Charmroom&section=footer)
