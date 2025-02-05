@@ -60,8 +60,7 @@
 ### 백엔드 (2024.06.07 - 2024.09.03)
 - [백엔드 레포지토리](https://github.com/CharmRoom/CharmRoom-Back) 참고
 
-### 프론트엔드 (2024.08.15 - 2024.09.04, 일시 중단)
-- [프론트엔드 레포지토리](https://github.com/CharmRoom/CharmRoom-Front) 참고
+### 프론트엔드 (2024.08.15 - 2024.10.12, 일시 중단)
 
 
 
